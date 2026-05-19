@@ -204,6 +204,20 @@ npx skills add https://github.com/EA-Studio-SHARK/ai-morning-brief --skill ai-mo
 - 📬 Telegram：[@ExploreAllStudio](https://t.me/ExploreAllStudio)
 - 💼 定制 AI 早报系统 / 自动化发布工作流：欢迎合作
 
+
+---
+
+## 💬 加群交流
+
+正在维护 **「EA同学的 AI 实战圈」** 群：
+
+- 📰 每天 9:00 同步精选 AI 早报（国内+国际双轨）
+- 🛠️ 每周分享 Claude Code Skills / MCP 实战
+- 💡 工具选型、踩坑、咨询都可以群里问
+
+**加群**：知乎/掘金私信我「加群」即可，看到就发。
+
+
 ---
 
 <div align="center">
