@@ -166,7 +166,8 @@ npx skills add https://github.com/EA-Studio-SHARK/ai-morning-brief --skill ai-mo
 {
   "mcpServers": {
     "china-hot": {
-      "command": "china-hot-mcp"
+      "command": "python3",
+      "args": ["-m", "china_hot_mcp.server"]
     }
   }
 }
@@ -194,8 +195,6 @@ npx skills add https://github.com/EA-Studio-SHARK/ai-morning-brief --skill ai-mo
 | [china-hot-mcp](https://github.com/EA-Studio-SHARK/china-hot-mcp) | 让 Claude 实时获取微博/知乎/B站等平台热搜的 MCP 服务 | ⭐ |
 | [awesome-mcp-zh](https://github.com/EA-Studio-SHARK/awesome-mcp-zh) | 国内可用 MCP 服务精选，附完整配置示例 | ⭐ |
 | [local-ai-china](https://github.com/EA-Studio-SHARK/local-ai-china) | 本地 AI 一键部署：DeepSeek/Qwen，无需 VPN 和 API 费用 | ⭐ |
-| [ai-agent-guide](https://github.com/EA-Studio-SHARK/ai-agent-guide) | 从零上手 AI Agent 开发教程，含完整代码示例 | ⭐ |
-| [awesome-ai-tools-zh](https://github.com/EA-Studio-SHARK/awesome-ai-tools-zh) | 500+ AI 工具中文精选清单，每周更新 | ⭐ |
 
 ---
 
